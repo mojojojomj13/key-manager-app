@@ -1,0 +1,85 @@
+.error {
+	padding: 15px;
+	margin-bottom: 20px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #a94442;
+	background-color: #f2dede;
+	border-color: #ebccd1;
+}
+
+.msg {
+	padding: 15px;
+	margin-bottom: 20px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #31708f;
+	background-color: #d9edf7;
+	border-color: #bce8f1;
+}
+
+#login-box {
+	width: 300px;
+	padding: 20px;
+	margin: 100px auto;
+	background: #fff;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border: 1px solid #000;
+}
+
+.dataCellDiv {
+	max-height: 300px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	width: auto;
+}
+
+.tab-content {
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	height: 100%;
+	padding: 10px;
+}
+
+table.tab2 {
+	border-collapse: collapse;
+}
+
+table.tab2 th, table.tab td {
+	padding: 10px;
+}
+
+table.tab2 tr:first-child th {
+	background-color: #0080FF;
+	height: 50px;
+	color: #ffffff;
+}
+
+table.dataCell {
+	padding: 10px;
+	background-color: #EFF5FB;
+}
+
+table.dataCell {
+	border-radius: 10px;
+	padding: 0px;
+	margin-left: -10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+table {
+	width: 100%;
+}
+
+table.tab2 td, table.dataCell td {
+	width: 500px;
+	padding-left: 12px;
+}
+
+.chkbox {
+	text-align: right;
+	margin-right: 30px;
+}
